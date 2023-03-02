@@ -1,0 +1,100 @@
+*{
+    margin: auto;
+}
+header{
+    background-color: #A970FF;
+    height: 60px;
+    text-align: center;
+
+}
+
+header h1{
+    padding-top: 10px;
+    color: white;
+}
+
+body{
+    background-color: white;
+    color: black;
+}
+
+#foto{
+    border-radius: 50%;
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.corpo{
+    margin: auto;
+}
+
+.conteudo{
+    display: table;
+    margin-left: 0;
+}
+
+.img{
+    display: table-cell;
+    float: left;
+}
+
+.texto{
+    display: table-cell;
+    float: left;
+    width: 400px;
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.txt{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.text{
+    margin-top: 40px;
+    margin-left: 20px;
+    color: black;
+}
+
+ul li{
+    margin-top: 20px;
+    margin-left: 0px;
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.list{
+    padding-left: 10px;
+    font-size: 40px;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.campo{
+    margin-bottom: 20px;
+}
+
+.campo label{
+    margin-bottom: 10px;
+    display: block;
+}
+
+fieldset{
+    border: 0;
+    margin-left: 10px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    padding: 30px;
+    color: black;
+}
